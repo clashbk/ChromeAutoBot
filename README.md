@@ -1,24 +1,40 @@
-## 自动签到机
-
-### 使用教程
-
-先点击登录，登录你的账户。然后勾选需要自动化的项目。
+## ChromeAutoBot
 
 ### 软件截图：
 
-![](https://github.com/clashbk/auto_sign_in/raw/main/assets/main.png)
+主界面
+
+![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\main.png)
+
+项目设置
+
+![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\item.png)
+
+动作设置
+
+![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\action.png)
 
 ### 功能介绍：
 
-自动化签到，再也不愁积分不够了，薅羊毛利器。
+自动化操作chrome内核浏览器，完成日常需要重复的动作。可自定义规则，再也不愁积分不够了，薅羊毛利器。
 
-已完成自动化签到的网站：精益论坛、v2ex、经管之家、bilibili、稀土掘金
+### 使用教程：
 
-其他网站陆续添加中。
+1、点击项目旁边的“+”按钮，新建项目。
+
+2、编写项目规则，保存。
+
+3、点击“刷新”按钮，载入新建的项目。
+
+4、点击项目的“登录”按钮，登录你的账号。
+
+5、点击项目的“测试”按钮，进行测试。
+
+6、如果项目需要自动运行，勾选“启用”。
 
 ### 查毒地址：
 
-https://www.virscan.org/report/956b0fb5194839315c6a9aca5e511e51c726158baaa7859a7748423525865c7a
+https://www.virscan.org/report/c35d6392098d977514808d779d8f090453cd21d117881815b0da55aef4d4fd4e
 
 ### 特别说明：
 
@@ -26,4 +42,4 @@ https://www.virscan.org/report/956b0fb5194839315c6a9aca5e511e51c726158baaa7859a7
 
 ### 下载地址：
 
-https://github.com/clashbk/auto_sign_in
+https://github.com/clashbk/ChromeAutoBot
