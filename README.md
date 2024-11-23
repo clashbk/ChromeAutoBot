@@ -4,15 +4,15 @@
 
 主界面
 
-![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\main.png)
+![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/main.png)
 
 项目设置
 
-![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\item.png)
+![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/item.png)
 
 动作设置
 
-![](D:\Users\liubo\Documents\git\eroslp99@gmail.com\ChromeAutoBot\assets\action.png)
+![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/action.png)
 
 ### 功能介绍：
 
