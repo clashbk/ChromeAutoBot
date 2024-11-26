@@ -32,6 +32,10 @@
 
 6、如果项目需要自动运行，勾选“启用”。
 
+## TG交流群：
+
+https://t.me/ChromeAutoBot
+
 ### 查毒地址：
 
 https://www.virscan.org/report/c35d6392098d977514808d779d8f090453cd21d117881815b0da55aef4d4fd4e
@@ -43,3 +47,4 @@ https://www.virscan.org/report/c35d6392098d977514808d779d8f090453cd21d117881815b
 ### 下载地址：
 
 https://github.com/clashbk/ChromeAutoBot
+
