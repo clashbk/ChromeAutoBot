@@ -1,18 +1,18 @@
-## ChromeAutoBot
+## ChromeBot
 
 ### 软件截图：
 
 主界面
 
-![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/main.png)
+![](https://github.com/clashbk/ChromeBot/raw/main/assets/main.png)
 
 项目设置
 
-![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/item.png)
+![](https://github.com/clashbk/ChromeBot/raw/main/assets/item.png)
 
 动作设置
 
-![](https://github.com/clashbk/ChromeAutoBot/raw/main/assets/action.png)
+![](https://github.com/clashbk/ChromeBot/raw/main/assets/action.png)
 
 ### 功能介绍：
 
@@ -32,10 +32,6 @@
 
 6、如果项目需要自动运行，勾选“启用”。
 
-## TG交流群：
-
-https://t.me/ChromeAutoBot
-
 ### 查毒地址：
 
 https://www.virscan.org/report/c35d6392098d977514808d779d8f090453cd21d117881815b0da55aef4d4fd4e
@@ -46,5 +42,5 @@ https://www.virscan.org/report/c35d6392098d977514808d779d8f090453cd21d117881815b
 
 ### 下载地址：
 
-https://github.com/clashbk/ChromeAutoBot
+https://github.com/clashbk/ChromeBot
 
